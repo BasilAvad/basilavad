@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Web Application Calculating Kinematics of Industrial Robot Arms.](http://robotk.somee.com/)
 
-- 🌱 I’m currently learning **OpenCV,Python**
+- 🌱 I’m currently learning **OpenCV, Python**
 
 - 📄 Know about my experiences ( http://robotk.somee.com/ ) ( http://www.basilavad.somee.com/ )
 

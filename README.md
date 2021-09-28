@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences ( http://robotk.somee.com/ ) ( http://www.basilavad.somee.com/ )
 
-- ⚡ Fun fact **I think I am funny XD :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

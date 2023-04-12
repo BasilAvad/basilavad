@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basilavad" alt="basilavad" /></a> </p>
 
-- 🔭 I’m currently working on [Web Application Calculating Kinematics of Industrial Robot Arms.](http://robotkinematic.somee.com/)
+- 🔭 I’m currently working on [Web Application Calculating Kinematics of Industrial Robot Arms.](http://robotkinematics.somee.com)
 
-- 📄 Know about my experiences ( http://robotkinematic.somee.com/ ) ( http://robotkinematic.somee.com/ )
+- 📄 Know about my experiences ( http://robotkinematics.somee.com ) ( http://robotkinematics.somee.com )
 
 
 

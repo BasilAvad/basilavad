@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilavad&label=Profile%20views&color=0e75b6&style=flat" alt="basilavad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basilavad" alt="basilavad" /></a> </p>
-![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
+
 - 🔭 I’m currently working on [Web Application Calculating Kinematics of Industrial Robot Arms.](http://robotkinematics.somee.com)
 
 - 📄 Know about my experiences ( http://robotkinematics.somee.com ) ( http://robotkinematics.somee.com )

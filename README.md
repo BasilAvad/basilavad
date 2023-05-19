@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences ( http://robotkinematics.somee.com ) ( http://robotkinematics.somee.com )
 
-<a  href="https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&badge&colormode=dark_mode"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

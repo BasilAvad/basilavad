@@ -3,7 +3,7 @@
 <h2 align="center">Mechatronics Engineer </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilavad&label=Profile%20views&color=0e75b6&style=flat" alt="basilavad" /> </p>
-
+[![Codewars Badge](https://www.codewars.com/users/Basil%20Avad/badges/large)](https://www.codewars.com/users/your-username) 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basilavad" alt="basilavad" /></a> </p>
 
 - 🔭 I’m currently working on [Web Application Calculating Kinematics of Industrial Robot Arms.](http://robotkinematics.somee.com)

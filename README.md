@@ -1,4 +1,4 @@
-[Codewars Profile](https://www.codewars.com/users/your-username) 
+[Codewars Profile](https://www.codewars.com/users/Basil%20Avad/badges/large) 
 <h1 align="center">Hi 👋, I'm BASİL AVAD</h1>
 <h2 align="center">Mechatronics Engineer </h2>
 

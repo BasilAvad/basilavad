@@ -22,6 +22,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basilavad&show_icons=true&locale=en" alt="basilavad" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basilavad&show_icons=true&locale=en" alt="basilavad" /></p>
 
 

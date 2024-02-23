@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Web Application Calculating Kinematics of Industrial Robot Arms.](http://robotkinematics.somee.com)
 
-- 📄 Know about my experiences ( http://robotkinematics.somee.com ) ( http://robotkinematics.somee.com )
+- 📄 Know about my experiences ( http://robotkinematics.somee.com )
 
 
 <h3 align="left">Connect with me:</h3>
